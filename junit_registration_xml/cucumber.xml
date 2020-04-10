@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="39.206184">
+<testcase classname="ecommerce Registration Feature" name="ecommerce Registration Test Scenario" time="10.833683">
+<system-out><![CDATA[Given you are on login page.................................................passed
+When login page title is Ez Shop Online.....................................passed
+Then user click signUP buton................................................passed
+Then user clicks gender buton...............................................passed
+Then user enters contacts details "Madhulika" and "Srivastava" and "01" and "03" and "1985" and "madhulika.srvt@gmail.com" and "123" and "sss" and "Pleasanton" and "Alameda"  and "USA"  and "12345" and "408-444-2222" and "444-444-4444"  and"Lovy123" and "Lovy123".passed
+Then user clicks on terms...................................................passed
+Then user clicks sign up button.............................................passed
+Then validate if user is already singedUP...................................passed
+Then close the window.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="ecommerce Registration Feature" name="ecommerce Registration Test Scenario 2" time="10.109612">
+<system-out><![CDATA[Given you are on login page.................................................passed
+When login page title is Ez Shop Online.....................................passed
+Then user click signUP buton................................................passed
+Then user clicks gender buton...............................................passed
+Then user enters contacts details "" and "Srivastava" and "01" and "03" and "1985" and "madhulika.srvt@gmail.com" and "123" and "sss" and "Pleasanton" and "Alameda"  and "USA"  and "12345" and "408-444-2222" and "444-444-4444"  and"Lovy123" and "Lovy123".passed
+Then user clicks on terms...................................................passed
+Then user clicks sign up button.............................................passed
+Then validate if user is already singedUP...................................passed
+Then close the window.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="ecommerce Registration Feature" name="ecommerce Registration Test Scenario 3" time="8.937822">
+<system-out><![CDATA[Given you are on login page.................................................passed
+When login page title is Ez Shop Online.....................................passed
+Then user click signUP buton................................................passed
+Then user clicks gender buton...............................................passed
+Then user enters contacts details "Madhulika" and "Srivastava" and "01" and "03" and "1985" and "" and "123" and "sss" and "Pleasanton" and "Alameda"  and "USA"  and "12345" and "408-444-2222" and "444-444-4444"  and"Lovy123" and "Lovy123".passed
+Then user clicks on terms...................................................passed
+Then user clicks sign up button.............................................passed
+Then validate if user is already singedUP...................................passed
+Then close the window.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="ecommerce Registration Feature" name="ecommerce Registration Test Scenario 4" time="9.325067">
+<system-out><![CDATA[Given you are on login page.................................................passed
+When login page title is Ez Shop Online.....................................passed
+Then user click signUP buton................................................passed
+Then user clicks gender buton...............................................passed
+Then user enters contacts details "Madhulika" and "Srivastava" and "01" and "03" and "1985" and "madhulika.srvt@gmail.com" and "123" and "sss" and "Pleasanton" and "Alameda"  and "USA"  and "12345" and "408-444-2222" and "444-444-4444"  and"" and "Lovy123".passed
+Then user clicks on terms...................................................passed
+Then user clicks sign up button.............................................passed
+Then validate if user is already singedUP...................................passed
+Then close the window.......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

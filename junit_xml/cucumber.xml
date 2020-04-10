@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="57.038567">
+<testcase classname="ecommerce Login Feature" name="ecommerce Login Test Scenario" time="11.42758">
+<system-out><![CDATA[Given user is already on login Page.........................................passed
+When title of login page is Ez Shop Online..................................passed
+Then user enters "madhulika.srvt@gmail.com" and "Lovy123"...................passed
+Then user clicks on login button............................................passed
+Then validate user is on home page..........................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="ecommerce Login Feature" name="ecommerce Login Test Scenario 2" time="9.542131">
+<system-out><![CDATA[Given user is already on login Page.........................................passed
+When title of login page is Ez Shop Online..................................passed
+Then user enters "Lovy17@gmail.com" and "Lovy17"............................passed
+Then user clicks on login button............................................passed
+Then validate user is on home page..........................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="ecommerce Login Feature" name="ecommerce Login Test Scenario 3" time="9.351723">
+<system-out><![CDATA[Given user is already on login Page.........................................passed
+When title of login page is Ez Shop Online..................................passed
+Then user enters "madhulika.srvt@gmail.com" and "Lovy"......................passed
+Then user clicks on login button............................................passed
+Then validate user is on home page..........................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="ecommerce Login Feature" name="ecommerce Login Test Scenario 4" time="9.196224">
+<system-out><![CDATA[Given user is already on login Page.........................................passed
+When title of login page is Ez Shop Online..................................passed
+Then user enters "madhulika.srvt@gmail.com" and ""..........................passed
+Then user clicks on login button............................................passed
+Then validate user is on home page..........................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="ecommerce Login Feature" name="ecommerce Login Test Scenario 5" time="8.30945">
+<system-out><![CDATA[Given user is already on login Page.........................................passed
+When title of login page is Ez Shop Online..................................passed
+Then user enters "" and "Lovy123"...........................................passed
+Then user clicks on login button............................................passed
+Then validate user is on home page..........................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="ecommerce Login Feature" name="ecommerce Login Test Scenario 6" time="9.211459">
+<system-out><![CDATA[Given user is already on login Page.........................................passed
+When title of login page is Ez Shop Online..................................passed
+Then user enters "" and ""..................................................passed
+Then user clicks on login button............................................passed
+Then validate user is on home page..........................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
